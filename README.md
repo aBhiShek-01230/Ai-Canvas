@@ -1,4 +1,4 @@
-# AI-calculator
+# AI-Canvas
 # React + TypeScript + Vite App with FastAPI Backend
 
 This project is a Gemini Based application combining a React frontend (using Vite) and a FastAPI backend. The frontend is built with TypeScript and React, while the backend serves as an API using FastAPI.
